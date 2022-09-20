@@ -26,10 +26,12 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
+Sample Project Link
 
 
 
 
+https://63263795748e56241f18cf8b--zippy-kulfi-0bcb40.netlify.app/
 
 
 
